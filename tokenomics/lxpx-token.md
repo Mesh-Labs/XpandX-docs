@@ -1,0 +1,3 @@
+# 🦯 LXPX token
+
+COMING SOON
