@@ -5,6 +5,7 @@
 ## OVERVIEW
 
 * [💡 Vision](overview/vision.md)
+* [❤ Core value](overview/core-value.md)
 * [🔅 Our Features](overview/our-features.md)
 
 ## PRODUCT GUIDES
