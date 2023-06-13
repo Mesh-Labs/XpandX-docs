@@ -1,3 +1,7 @@
+---
+description: For 2023, 2024
+---
+
 # 🌏 Roadmap
 
 ## Q2 - 2023
@@ -10,11 +14,12 @@
 
 * Testnet v1 release
 * Audit XpandX protocol
+* DAO
 
 ## Q4 - 2023
 
 * v2 of XpandX Protocol
-* DAO
+* DID for the XpandX Community and Users
 * Launchpad
 
 ## Q1 - 2024
@@ -26,11 +31,12 @@
 ## Q2 - 2024
 
 * Cross-chain to Ethereum
-* Tokenise assets to create more liquidity
+* Dynamic liquidity crosschain
 * The proactive alert system against crypto exploits
 
 ## Q3 - 2024
 
+* Bring Tokenise assets to Defi for more liquidity
 * Cross-chain to XRPL
 
 ### Q4- 2024, 2025
