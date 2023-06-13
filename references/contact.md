@@ -10,7 +10,7 @@ Twitter Mesh Labs: [https://twitter.com/0xMeshlabs](https://twitter.com/0xMeshla
 
 ### Partnership&#x20;
 
-**Email:** [hello@xpandx.xyz](mailto:hello@xpandx.xyz) &#x20;
+**Email:** [hi@xpandx.xyz](mailto:hello@xpandx.xyz) &#x20;
 
 
 
