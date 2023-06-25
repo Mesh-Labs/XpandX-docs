@@ -2,14 +2,16 @@
 
 ## Overview
 
-XpandX is a pioneering cross-chain decentralized exchange (DEX) that transforms the way users trade cryptocurrencies securely and efficiently. Our platform operates on the Automated Market Maker (AMM) model, revolutionizing the exchange of digital assets by eliminating the need for a centralized order book.
+XpandX is a cross-chain perpetual decentralized exchange (perp DEX) built on the Venom, Starknet blockchain.&#x20;
 
-Utilizing sophisticated mathematical algorithms, XpandX's AMM model dynamically determines asset prices based on real-time supply and demand across multiple blockchain networks. This results in enhanced trading efficiency, reduced fees, and improved market liquidity, providing users with a seamless trading experience.
+As a perp DEX, XpandX offers users the ability to trade perpetual contracts on various assets without an expiration date. Perpetual contracts allow traders to speculate on the price movements of an underlying asset, such as cryptocurrencies, commodities, or indices, without the need to own the asset itself. This trading mechanism provides traders with flexibility and enables them to profit from both rising and falling markets.
 
-What sets XpandX apart is its robust cross-chain functionality. Our DEX allows users to trade assets across different blockchain networks, transcending the limitations of individual chains. By enabling seamless interoperability, we empower users to access a diverse range of cryptocurrencies and take advantage of new investment opportunities.
+XpandX leverages the capabilities of Venom to provide a decentralized and efficient trading experience. Venom's blockchain infrastructure ensures fast transaction confirmation times, low fees, and high throughput, allowing for seamless and cost-effective trading on XpandX.
 
-Security is of utmost importance to us. XpandX employs state-of-the-art cryptographic protocols and smart contract technology to ensure the integrity and safety of transactions. We prioritize user trust by implementing robust measures to prevent front-running and other malicious activities, bolstering the security of our cross-chain DEX.
+One of the key features of XpandX is its cross-chain functionality. By leveraging Venom's cross-chain capabilities, XpandX enables users to trade perpetual contracts that are based on assets from different blockchain networks. This means that users can access a wide range of assets and markets beyond the Venom blockchain ecosystem. The cross-chain integration enhances liquidity and expands trading opportunities, as users can participate in markets that were previously isolated.
 
-As we recognize the importance of fostering a thriving ecosystem, XpandX supports the development of customized versions of our protocol. This enables developers and projects to leverage our infrastructure, contributing to the growth and innovation of the decentralized finance (DeFi) landscape.
+Additionally, XpandX prioritizes security and trustlessness by utilizing smart contracts and decentralized protocols on the Venom blockchain. By eliminating the need for intermediaries, users retain control over their funds and can engage in peer-to-peer trading directly.
 
-In summary, XpandX's cross-chain DEX, powered by the AMM model, offers a secure, efficient, and versatile trading solution for the ever-expanding cryptocurrency market. Embrace the future of decentralized finance with XpandX and unlock limitless possibilities for cross-chain trading.
+The user interface of XpandX is designed to be user-friendly, making it easy for both experienced traders and newcomers to navigate the platform. It provides real-time market data, order book information, and trading charts, empowering users to make informed trading decisions.
+
+Overall, XpandX on the Venom blockchain aims to provide a decentralized and efficient trading experience for perpetual contracts. By leveraging Venom's cross-chain capabilities, the DEX offers users access to a wide range of assets, while maintaining the security and trustlessness of decentralized finance (DeFi) ecosystems.
