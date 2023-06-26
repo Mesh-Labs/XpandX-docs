@@ -6,7 +6,7 @@
 
 * [Vision](overview/vision.md)
 * [Core value](overview/core-value.md)
-* [Our Features](overview/our-features.md)
+* [Features](overview/features.md)
 
 ## PRODUCT GUIDES
 
