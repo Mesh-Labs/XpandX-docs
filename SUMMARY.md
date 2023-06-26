@@ -17,25 +17,16 @@
     * [How to add custom token to Venom wallet?](product-guides/user-manual/how-to-use-xpandx-platform/how-to-add-custom-token-to-venom-wallet.md)
     * [How to swap](product-guides/user-manual/how-to-use-xpandx-platform/how-to-swap.md)
 
-## FUNDAMENTALS
+## Token
 
-* [Protocol](fundamentals/protocol/README.md)
-  * [Concentrated Liquidity](fundamentals/protocol/concentrated-liquidity.md)
-  * [Fees](fundamentals/protocol/fees.md)
-  * [Oracle](fundamentals/protocol/oracle.md)
-  * [Range Orders](fundamentals/protocol/range-orders.md)
-  * [Swapping](fundamentals/protocol/swapping.md)
-
-## TOKENOMICS
-
-* [XPX](tokenomics/xpx.md)
-* [LXPX](tokenomics/lxpx.md)
-* [Token Distribution](tokenomics/token-distribution.md)
-* [Rewards](tokenomics/rewards.md)
-* [Referral](tokenomics/referral.md)
-* [Governance](tokenomics/governance.md)
-* [Contracts](tokenomics/contracts.md)
-* [Roadmap](tokenomics/roadmap.md)
+* [XPX](token/xpx.md)
+* [LXPX](token/lxpx.md)
+* [Token Distribution](token/token-distribution.md)
+* [Rewards](token/rewards.md)
+* [Referral](token/referral.md)
+* [Governance](token/governance.md)
+* [Contracts](token/contracts.md)
+* [Roadmap](token/roadmap.md)
 
 ## REFERENCES
 
