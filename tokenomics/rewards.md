@@ -4,7 +4,7 @@ description: >-
   rewards come in the form of Escrowed XPX and Multiplier Points.
 ---
 
-# 💴 Rewards
+# Rewards
 
 ### Compounding vs Claiming
 

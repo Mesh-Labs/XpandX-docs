@@ -1,4 +1,4 @@
-# 💡 Vision
+# Vision
 
 At the heart of XpandX, our cross-chain perp decentralized exchange (perp DEX) is designed to revolutionize the way people trade and invest in cryptocurrencies. Our mission is to empower individuals to take control of their financial future by providing a seamless and user-friendly platform that facilitates cross-chain transactions.
 

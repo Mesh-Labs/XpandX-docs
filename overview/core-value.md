@@ -2,7 +2,7 @@
 description: Community is on our heart
 ---
 
-# ❤ Core value
+# Core value
 
 At XpandX, our primary focus is building a thriving and inclusive community centered around our open-source platform. We recognize the immense value that comes from fostering a collaborative environment where users, contributors, and enthusiasts can come together to create something greater than the sum of its parts.
 

@@ -1,4 +1,4 @@
-# 🔅 Our Features
+# Our Features
 
 
 

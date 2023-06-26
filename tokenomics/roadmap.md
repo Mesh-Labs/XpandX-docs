@@ -2,7 +2,7 @@
 description: For 2023, 2024
 ---
 
-# 🌏 Roadmap
+# Roadmap
 
 ## Q3 - 2023
 

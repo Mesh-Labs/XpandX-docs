@@ -4,9 +4,9 @@
 
 ## OVERVIEW
 
-* [💡 Vision](overview/vision.md)
-* [❤ Core value](overview/core-value.md)
-* [🔅 Our Features](overview/our-features.md)
+* [Vision](overview/vision.md)
+* [Core value](overview/core-value.md)
+* [Our Features](overview/our-features.md)
 
 ## PRODUCT GUIDES
 
@@ -28,14 +28,14 @@
 
 ## TOKENOMICS
 
-* [🍄 XPX](tokenomics/xpx.md)
-* [🦯 LXPX](tokenomics/lxpx.md)
-* [👁🗨 Token Distribution](tokenomics/token-distribution.md)
-* [💴 Rewards](tokenomics/rewards.md)
+* [XPX](tokenomics/xpx.md)
+* [LXPX](tokenomics/lxpx.md)
+* [Token Distribution](tokenomics/token-distribution.md)
+* [Rewards](tokenomics/rewards.md)
 * [Referral](tokenomics/referral.md)
 * [Governance](tokenomics/governance.md)
 * [Contracts](tokenomics/contracts.md)
-* [🌏 Roadmap](tokenomics/roadmap.md)
+* [Roadmap](tokenomics/roadmap.md)
 
 ## REFERENCES
 

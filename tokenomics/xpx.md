@@ -2,7 +2,7 @@
 description: Tokenomics and utility
 ---
 
-# 🍄 XPX token
+# XPX
 
 <figure><img src="../.gitbook/assets/Frame 98429.png" alt="" width="256"><figcaption></figcaption></figure>
 
