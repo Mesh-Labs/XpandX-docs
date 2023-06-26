@@ -39,5 +39,5 @@
 
 ## REFERENCES
 
-* [Whitepaper](references/whitepaper.md)
-* [📞 Contact](references/contact.md)
+* [Community](references/community.md)
+* [Contact](references/contact.md)

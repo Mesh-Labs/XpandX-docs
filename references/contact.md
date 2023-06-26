@@ -1,4 +1,4 @@
-# 📞 Contact
+# Contact
 
 Website: [https://xpandx.xyz/](https://xpandx.xyz/)
 
