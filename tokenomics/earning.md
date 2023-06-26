@@ -1,3 +1,0 @@
-# 💴 Earning
-
-COMING SOON

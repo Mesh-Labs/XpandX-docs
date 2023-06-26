@@ -28,10 +28,10 @@
 
 ## TOKENOMICS
 
-* [🍄 XPX token](tokenomics/xpx-token.md)
-* [🦯 LXPX token](tokenomics/lxpx-token.md)
+* [🍄 XPX](tokenomics/xpx.md)
+* [🦯 LXPX](tokenomics/lxpx.md)
 * [👁🗨 Token Distribution](tokenomics/token-distribution.md)
-* [💴 Earning](tokenomics/earning.md)
+* [💴 Rewards](tokenomics/rewards.md)
 * [Governance](tokenomics/governance.md)
 * [Contracts](tokenomics/contracts.md)
 * [🌏 Roadmap](tokenomics/roadmap.md)
