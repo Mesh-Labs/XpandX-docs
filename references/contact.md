@@ -1,12 +1,10 @@
 # 📞 Contact
 
-Main website: [https://xpandx.xyz/](https://xpandx.xyz/)
+Website: [https://xpandx.xyz/](https://xpandx.xyz/)
 
-Devnet: [https://testnet.xpandx.xyz/](https://testnet.xpandx.xyz/)
+Official Telegram: [https://t.me/xpandxlabs](https://t.me/xpandxlabs)
 
 Twitter: [https://twitter.com/xpandx\_xyz](https://twitter.com/xpandx\_xyz)
-
-Twitter Mesh Labs: [https://twitter.com/0xMeshlabs](https://twitter.com/0xMeshlabs)&#x20;
 
 ### Partnership&#x20;
 
