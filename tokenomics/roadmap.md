@@ -4,41 +4,32 @@ description: For 2023, 2024
 
 # 🌏 Roadmap
 
-## Q2 - 2023
-
-* v1 of XpandX Protocol
-* Participate in Venom Hackathon
-* Release v1 on devnet version
-
 ## Q3 - 2023
 
-* Testnet v1 release
-* Audit XpandX protocol
-* DAO
+* V1 of XpandX Protocol on Starkware testnet
 
 ## Q4 - 2023
 
 * v2 of XpandX Protocol
-* DID for the XpandX Community and Users
-* Launchpad
+* DAO&#x20;
+* Private sale
 
 ## Q1 - 2024
 
 * Release mainnet&#x20;
-* v3 of XpandX Protocol
-* Cross-chain to Arbitrum
+* Public sale
 
 ## Q2 - 2024
 
-* Cross-chain to Ethereum
-* Dynamic liquidity crosschain
-* The proactive alert system against crypto exploits
+* Add Venom Blockchain
+* XpandX analytics&#x20;
 
 ## Q3 - 2024
 
 * Bring Tokenise assets to Defi for more liquidity
-* Cross-chain to XRPL
+* Add XRPL
 
 ### Q4- 2024, 2025
 
-COMING SOON
+* The proactive alert system against crypto exploits
+* ...
