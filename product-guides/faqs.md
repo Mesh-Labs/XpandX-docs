@@ -8,7 +8,9 @@ description: Frequently Asked Questions
 
 <summary>What is XpandX protocol? </summary>
 
-**XpandX Protocol** is a cross-chain DEX and AMM platform on Venom Blockchain, revolutionizing seamless crypto trading across multiple networks. Our mission is to make crypto trading and investment accessible to everyone by removing the technological barriers that have hindered non-tech-savvy individuals in the past
+XpandX is a cutting-edge swap and perpetual DEX designed to provide a diverse selection of trading options and robust liquidity for a comprehensive array of crypto assets. This platform represents a groundbreaking decentralized exchange, driven by a constant stream of innovative developments facilitated by its dedicated team of developers.
+
+With the primary objective of empowering traders to maintain full control over their capital while delivering an exceptional trading experience, XpandX strives to emerge as the ultimate solution for traders seeking optimal trading opportunities on Starknet and Venom.
 
 </details>
 
@@ -16,9 +18,7 @@ description: Frequently Asked Questions
 
 <summary>How to use XpandX protocol? </summary>
 
-To swap, add liquidity, view protocol data, please head over to [XpandX App](https://devnet.xpandx.xyz/) and connect your Venom wallet.&#x20;
-
-If you want to know more about Venom, kindly check [this link](https://docs.xpandx.xyz/product-guides/user-manual/how-to-setup-venom-wallet) out. &#x20;
+To swap, open position, add liquidity, view protocol data, please head over to [XpandX App](https://devnet.xpandx.xyz/) and connect your Argent X or Venom wallet.&#x20;
 
 </details>
 
@@ -30,7 +30,7 @@ High liquidity
 
 Low fees
 
-Swap tokens on one chain to another easily
+Easy to swap
 
 </details>
 
