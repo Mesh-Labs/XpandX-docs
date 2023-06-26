@@ -32,6 +32,7 @@
 * [🦯 LXPX](tokenomics/lxpx.md)
 * [👁🗨 Token Distribution](tokenomics/token-distribution.md)
 * [💴 Rewards](tokenomics/rewards.md)
+* [Referral](tokenomics/referral.md)
 * [Governance](tokenomics/governance.md)
 * [Contracts](tokenomics/contracts.md)
 * [🌏 Roadmap](tokenomics/roadmap.md)
