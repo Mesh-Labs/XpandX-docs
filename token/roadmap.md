@@ -36,7 +36,7 @@ description: For 2023, 2024
 
 ### Q3 - 2024&#x20;
 
-💧 Open XpandX APIs for other platform
+💧 Open XpandX APIs for other platforms
 
 💧 Expanding Liquidity Horizons: Tokenized Asset Integration with DeFi (Merged tradfi)
 
