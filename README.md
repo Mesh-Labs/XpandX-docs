@@ -1,5 +1,7 @@
 # XpandX Protocol
 
+<figure><img src=".gitbook/assets/XpandX hub - find the best lending and perp dex.png" alt=""><figcaption><p>XpandX Defi Hub</p></figcaption></figure>
+
 ## Overview
 
 XpandX is a cross-chain perpetual decentralized exchange (perp DEX) built on the Venom, Starknet blockchain.&#x20;
