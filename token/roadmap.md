@@ -8,11 +8,11 @@ description: For 2023, 2024
 
 🚀 Unleashing the Power: V1 of XpandX Protocol on Arbitrum&#x20;
 
-🚀 Linking with Radiant Capital and GMX
+
 
 ### Q4 - 2023&#x20;
 
-🔥 Embracing the Future: v2 of XpandX Protocol with Integrated Starknet &#x20;
+🔥  Partner with Radiant Capital and GMX  &#x20;
 
 🔥 DAO&#x20;
 
@@ -20,23 +20,27 @@ description: For 2023, 2024
 
 ### Q1 - 2024&#x20;
 
+🌟 Embracing the Future: v2 of XpandX Protocol with Integrated Starknet &#x20;
+
 🌟 Ascending to New Heights: LayerZero Integration &#x20;
 
 🌟 Integrate more lending and perp DEX protocols&#x20;
 
 🌟 Public sale
 
+
+
 ### Q2 - 2024&#x20;
 
-🔮 Add Zksync, Venom Blockchain&#x20;
+🔮 Integrate Venom Blockchain&#x20;
 
-🔮 Mainnet Release
+🔮 Mainnet on Arbitrum, Starknet Release
 
-🔮 Token listing
+🔮 Token CEX listing
 
 ### Q3 - 2024&#x20;
 
-💧 Open XpandX APIs for other platforms
+💧 Add more tokens: XRP, GOLD, AUD,...
 
 💧 Expanding Liquidity Horizons: Tokenized Asset Integration with DeFi (Merged tradfi)
 

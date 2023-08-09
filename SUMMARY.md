@@ -11,11 +11,7 @@
 ## PRODUCT GUIDES
 
 * [FAQs](product-guides/faqs.md)
-* [User manual](product-guides/user-manual/README.md)
-  * [How to setup Venom Wallet](product-guides/user-manual/how-to-setup-venom-wallet.md)
-  * [How to use XpandX Platform](product-guides/user-manual/how-to-use-xpandx-platform/README.md)
-    * [How to add custom token to Venom wallet?](product-guides/user-manual/how-to-use-xpandx-platform/how-to-add-custom-token-to-venom-wallet.md)
-    * [How to swap](product-guides/user-manual/how-to-use-xpandx-platform/how-to-swap.md)
+* [User manual](product-guides/user-manual.md)
 
 ## Token
 

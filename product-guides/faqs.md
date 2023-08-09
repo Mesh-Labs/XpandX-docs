@@ -8,9 +8,9 @@ description: Frequently Asked Questions
 
 <summary>What is XpandX protocol? </summary>
 
-XpandX is a cutting-edge swap and perpetual DEX designed to provide a diverse selection of trading options and robust liquidity for a comprehensive array of crypto assets. This platform represents a groundbreaking decentralized exchange, driven by a constant stream of innovative developments facilitated by its dedicated team of developers.
+XpandX is a cutting-edge swap and perpetual DEX and lending designed to provide a diverse selection of trading options and robust liquidity for a comprehensive array of crypto assets. This platform represents a groundbreaking decentralized exchange, driven by a constant stream of innovative developments facilitated by its dedicated team of developers.
 
-With the primary objective of empowering traders to maintain full control over their capital while delivering an exceptional trading experience, XpandX strives to emerge as the ultimate solution for traders seeking optimal trading opportunities on Starknet and Venom.
+With the primary objective of empowering traders to maintain full control over their capital while delivering an exceptional trading experience, XpandX strives to emerge as the ultimate solution for traders seeking optimal trading opportunities on Starknet and Arbitrum.
 
 </details>
 

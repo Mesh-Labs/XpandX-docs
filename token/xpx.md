@@ -36,18 +36,18 @@ When you stake your XPX tokens, you unlock a world of rewards:
 * Multiplier Points
 * Real yield
 
-For detailed information on Escrowed XPX and Multiplier Points, kindly refer to the Rewards page. If you choose to stake on Venom or Starknet, you will receive Venom or STRK tokens. It's important to note that the distributed fees are calculated after deducting referral rewards and network costs of keepers. Typically, keeper costs amount to around 1% of the total fees.
+For detailed information on Escrowed XPX and Multiplier Points, kindly refer to the Rewards page. If you choose to stake on Arbitrum or Starknet, you will receive ARB or STRK tokens. It's important to note that the distributed fees are calculated after deducting referral rewards and network costs of keepers. Typically, keeper costs amount to around 1% of the total fees.
 
 To start staking your XPX tokens, simply visit the [Earn page](#user-content-fn-1)[^1].
 
 ### Fees Distribution
 
-Fees collected by the platform in the form of the network’s native tokens — Venom, Starknet are distributed as follows:&#x20;
+Fees collected by the platform in the form of the network’s native tokens — Arbitrum, Starknet are distributed as follows:&#x20;
 
 * 60% fees for XPX Stakers&#x20;
 * 30% fees for XPX & esXPX Stakers&#x20;
 * 5% fees for the dev team&#x20;
-* 5% fees for buyback and XPX-Venom, XPX-STRK
+* 5% fees for buyback and XPX-ARB, XPX-STRK
 
 
 
